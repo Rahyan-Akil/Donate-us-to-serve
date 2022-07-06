@@ -86,7 +86,8 @@ hr{
     margin-right:200px;
 }
 /* end of box section donation description code */
- .business-partners{
+ /* business section start */
+.business-partners{
     display:flex;
  }
 .business {
@@ -107,5 +108,43 @@ hr{
 }
 #business-section h1{
    margin-left: 365px;
-   
 }
+/* business-section end */
+/* footer and email section start */
+.email h1{
+    margin-left:200px;
+}
+.email{
+    margin-left:350px;
+}
+.email-input input{
+    height:30px;
+}
+.email-border{
+    height:100px;
+    width:780px;
+    background-color:pink;
+    display:flex;
+}
+.email-input form{
+    margin:30px 0px 100px 275px;
+}
+.email-border a{
+    height:25px;
+    margin-top: 25px;
+    margin-left:0 auto;
+}
+/* end of email section */
+/* footer section start */
+.footer{
+    height:100px;
+    width:100%;
+    background-color:black;
+    color:rgb(168, 35, 35);
+}
+.footer h5{
+    margin:50px 400px;
+    padding:30px 30px;
+}
+
+
